@@ -15,3 +15,7 @@ li {
 a {
     cursor: crosshair;
 }
+
+.contact-block {
+    margin: 1em 0em;
+}
