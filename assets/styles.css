@@ -1,4 +1,17 @@
+* {
+    scroll-behavior: smooth;
+}
+
 body {
     height: 100vh;
     background-color: aqua;
+}
+
+li {
+    display: inline;
+    padding: 2em 3em;
+}
+
+a {
+    cursor: crosshair;
 }
